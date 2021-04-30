@@ -126,6 +126,15 @@
         "spicy"
       ],
       "id": "12"
+    },
+    {
+      "name": "Boo",
+      "species": "panda",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
