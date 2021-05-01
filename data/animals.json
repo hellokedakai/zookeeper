@@ -135,6 +135,15 @@
         "loving"
       ],
       "id": "13"
+    },
+    {
+      "name": "boo",
+      "species": "snake",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "14"
     }
   ]
 }
